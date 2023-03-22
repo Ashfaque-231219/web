@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "205919215363",
+    "project_id": "redwood-666f7",
+    "storage_bucket": "redwood-666f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205919215363:android:ce3365ad76c89121b8d336",
+        "android_client_info": {
+          "package_name": "com.example.web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205919215363-kp7mm0h1ll611kc7pqlao1ipgsmkiu7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFA26NrPpPAWTuCbt_JXu-G8Qi7IGqw3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205919215363-kp7mm0h1ll611kc7pqlao1ipgsmkiu7f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "205919215363-4meotjld195kl48q1jo2at9jgv6l6r6p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.web"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205919215363:android:235fd7f5d273fbcbb8d336",
+        "android_client_info": {
+          "package_name": "com.redwood_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205919215363-04itkvvh1bmmp2vu56q0s6qo4lvf6f2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redwood_app",
+            "certificate_hash": "003e95023d389b82c0773c85137cc88279172975"
+          }
+        },
+        {
+          "client_id": "205919215363-5r14pmusnaek202oj5fohulksfol67m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redwood_app",
+            "certificate_hash": "d02d7d7ba3ed0d47976ee33fa061747ea0432d0e"
+          }
+        },
+        {
+          "client_id": "205919215363-cj9g8ogv0riiei1cjj8f05bfaapf1onn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redwood_app",
+            "certificate_hash": "e2b19bec62c7a425e9ecd0d046905eac7fc7e1e7"
+          }
+        },
+        {
+          "client_id": "205919215363-kp7mm0h1ll611kc7pqlao1ipgsmkiu7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFA26NrPpPAWTuCbt_JXu-G8Qi7IGqw3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205919215363-kp7mm0h1ll611kc7pqlao1ipgsmkiu7f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "205919215363-4meotjld195kl48q1jo2at9jgv6l6r6p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.web"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
